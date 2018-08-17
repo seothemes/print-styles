@@ -1,0 +1,23 @@
+{
+  "name": "print-styles",
+  "version": "1.0.0",
+  "description": "Basic CSS print styles for WordPress themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-ps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seothemes/print-styles.git"
+  },
+  "keywords": [
+    "wordpress",
+    "css"
+  ],
+  "author": "Lee Anthony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seothemes/print-styles/issues"
+  },
+  "homepage": "https://github.com/seothemes/print-styles#readme"
+}
